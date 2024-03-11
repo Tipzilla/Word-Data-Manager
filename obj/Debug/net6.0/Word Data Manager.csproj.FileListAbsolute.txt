@@ -1,0 +1,17 @@
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\bin\Debug\net6.0\Word Data Manager.exe
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\bin\Debug\net6.0\Word Data Manager.deps.json
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\bin\Debug\net6.0\Word Data Manager.runtimeconfig.json
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\bin\Debug\net6.0\Word Data Manager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\bin\Debug\net6.0\Word Data Manager.pdb
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\bin\Debug\net6.0\Figgle.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.csproj.AssemblyReference.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.AssemblyInfoInputs.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.AssemblyInfo.cs
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.csproj.CoreCompileInputs.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.csproj.CopyComplete
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\refint\Word Data Manager.dll
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.pdb
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\Word Data Manager.genruntimeconfig.cache
+C:\Users\tipzi\Desktop\Coding\School Work\COMP605 Data Structures and Algorithms\Assessment 1\Word Data Manager\obj\Debug\net6.0\ref\Word Data Manager.dll
